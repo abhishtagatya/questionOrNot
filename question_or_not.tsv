@@ -1,0 +1,669 @@
+	Sentence	Question
+0	"The scientific name of dog is ""Canis familiaris""."	False
+1	The arrows fell from the sky so densely, it was as if it were raining spears.	False
+2	I'll do anything that Tom asks.	False
+3	I deserve better.	False
+4	The German domination didnâ€™t last very long.	False
+5	This is a very interesting book.	False
+6	Tom couldn't be saved.	False
+7	I didn't want her to die.	False
+8	Tom is slender, isn't he?	True
+9	Tom is a terrible farmer.	False
+10	My daughter is having dinner.	False
+11	Did you speak with her?	True
+12	I left my phone in the conference room.	False
+13	Just bring me the ink, will you?	True
+14	What do you want me to wear?	True
+15	Tom is being sent to prison.	False
+16	We're three hours behind schedule.	False
+17	Tom wiped his spectacles.	False
+18	It was a fun game to watch.	False
+19	I need to speak with Tom right now.	False
+20	I didn't have time to do anything else.	False
+21	Do we have to help Tom?	True
+22	Tom lost control of the car.	False
+23	I want a doctor.	False
+24	The captain of the ship decided to change course.	False
+25	I wish I'd known sooner.	False
+26	Tom had to wait till Mary got there.	False
+27	I just need to know the truth.	False
+28	My cat likes my keyboard.	False
+29	I cannot do without this dictionary.	False
+30	Why were you angry?	True
+31	She didn't write me back.	False
+32	Tom threw the ball back to Mary.	False
+33	I've had enough of your shenanigans.	False
+34	The names are in alphabetical order.	False
+35	How many more classes do you have today?	True
+36	Tom finally realized that Mary didn't really like him.	False
+37	Tom noticed the front door was open.	False
+38	Yes, but what happens after the fall?	True
+39	Why would Tom want to go do something like that?	True
+40	He took the car on trial, but didn't like it so he took it back.	False
+41	Are you sure we can trust her?	True
+42	I know Tom was the one who did it, but I won't ever be able to prove it.	False
+43	Who am I supposed to help?	True
+44	A cheetah runs as fast as any animal.	False
+45	I was trying to protect Tom.	False
+46	I'm under the tree.	False
+47	Turtles are reptiles.	False
+48	Tom is looking good.	False
+49	Articles are always what?	True
+50	It's a good thing I came here.	False
+51	Have you set a date for your wedding?	True
+52	He's a self-made man.	False
+53	I bought a book for two hundred yen.	False
+54	He left the house without even saying goodbye.	False
+55	Is this gift Laura's?	True
+56	I was almost right.	False
+57	Japan's exports exceeded imports by $77.8 billion in 1998.	False
+58	I couldn't get that lucky.	False
+59	I've just finished doing my French homework.	False
+60	Tom probably just wants to find out what time he's supposed to be here.	False
+61	The dog lying on the grass is mine.	False
+62	I think I have tendonitis.	False
+63	I have nothing else worth saying.	False
+64	What is your favorite consonant?	True
+65	Tom is reading a novel.	False
+66	They help us.	False
+67	Tom hasn't been very kind to us.	False
+68	I have to get her home.	False
+69	You had better not associate with those men.	False
+70	How did you know it was Tom who stole your money?	True
+71	I was employee of the year for three years.	False
+72	Why are you pouting?	True
+73	I walked into a mirror.	False
+74	The choice is very simple.	False
+75	Did you answer Tom's question?	True
+76	Tom got well soon.	False
+77	I think you can help us.	False
+78	Tom is the easy-going sort.	False
+79	Please buy me this book.	False
+80	He was at a loss which way to take.	False
+81	Is there something else you can do for Tom?	True
+82	Why don't you come inside and we can talk about it?	True
+83	He would not raise my salary.	False
+84	Tom has a Canadian wife.	False
+85	Is Mr. Al-Abeed here?	True
+86	Both Tom and Bill are playing tennis now.	False
+87	Tom isn't in danger.	False
+88	He asked me if he could ask me a question.	False
+89	This is cold.	False
+90	I can't find Tom. Has he gone already?	True
+91	She is both rich and very beautiful.	False
+92	Please don't ask that kind of question.	False
+93	How was Tom able to lose so much weight so quickly?	True
+94	She's better than us.	False
+95	Were you always this strange?	True
+96	That museum is worth visiting.	False
+97	Tom never went out.	False
+98	Why aren't you giving Tom the help he needs?	True
+99	I remember hearing the story once.	False
+100	I'm glad you're well.	False
+101	It's not that I am unsympathetic, but I am not able to help you.	False
+102	When a man cannot choose, he ceases to be a man.	False
+103	We can't allow that.	False
+104	Do you find Mary attractive?	True
+105	I had dinner with Tom.	False
+106	Tom can do it better than me.	False
+107	I got rid of my jewels.	False
+108	We haven't decided anything.	False
+109	You don't have to hang around if you don't want to.	False
+110	I knew that was going to happen.	False
+111	While anyone who has a need to conduct legal research may study and take notes from the law library's holdings of published books and journals during normal hours of operation, members of the public who are not formally registered as law students do not have access to certain electronic resources.	False
+112	I need to speak to them.	False
+113	Have you got a bike?	True
+114	Who else do we have on our team?	True
+115	He changed overnight.	False
+116	You can't see the forest behind the trees.	False
+117	It's not a raven, a crow, nor a magpie. It's a rook.	False
+118	Why can't I love them both?	True
+119	Polyphemus, the son of Neptune, had one eye in his forehead.	False
+120	I work as a museum attendant.	False
+121	Tom explained the problem in detail.	False
+122	Julia finally found a shoe she likes.	False
+123	It's a real shame that Tom can't be here today.	False
+124	How are we going to impress them?	True
+125	What activity do you spend most of your time doing?	True
+126	I used to watch this anime a lot when I was a kid, but I can't quite remember what happened to the hero in the final episode.	False
+127	Why did they arrest him?	True
+128	I saw a doctor this morning.	False
+129	Do you need to drink wine?	True
+130	Why can't our kids do that, too?	True
+131	Why aren't you planning on helping us?	True
+132	I've got bad news for you.	False
+133	Tom was convicted of second-degree assault in 2013.	False
+134	TimuÃ§in is a native of Yozgat.	False
+135	Why couldn't you tell him?	True
+136	I told you never to speak to me again.	False
+137	I was driving to Boston at that time.	False
+138	So, what do you serve at your restaurant?	True
+139	Tom persuaded Mary to join our band.	False
+140	Hey, Tom, do you still have that sofa-bed in your office?	True
+141	I may not have enough time.	False
+142	I'll do it anyway.	False
+143	This machine is too heavy for me to carry.	False
+144	She is quite coquettish.	False
+145	I like women, I like wine.	False
+146	She'll be pleased to be here tonight.	False
+147	Do you really think Tom could be innocent?	True
+148	Don't go out with her.	False
+149	You knew Tom, didn't you?	True
+150	Tom got on the elevator and pressed the button for the third floor.	False
+151	It's quite likely that Tom will be there.	False
+152	Don't lose sleep over that.	False
+153	At last we meet! I've waited so long for this day!	False
+154	Nobody can foresee when the war will end.	False
+155	There's nothing you can do about it.	False
+156	He dozed off.	False
+157	You're taller than me by half a head.	False
+158	He took no notice of our warning.	False
+159	You think to play with me?	True
+160	A good daughter will make a good wife.	False
+161	I understand no English and German even less.	False
+162	Not everyone is meant to be happy.	False
+163	Here's $5.	False
+164	We should eat.	False
+165	How is Lanzarote?	True
+166	He who is born for a dime, will never be worth a quarter.	False
+167	Unfortunately, I don't have a reservation. Do you still have a double room available?	True
+168	I tried to avoid him as much as possible.	False
+169	I don't think we can afford it now.	False
+170	Who are your friends?	True
+171	It's better as it is.	False
+172	Tom may never be able to walk again.	False
+173	I take vitamins every day.	False
+174	Is there nothing else?	True
+175	I grasped the rope so as not to fall.	False
+176	The rental should be somewhat close to where I work.	False
+177	This is what I've been looking for.	False
+178	I got off at the park.	False
+179	You've got a fever.	False
+180	I don't want meat.	False
+181	Tom saw Mary picking things up off the floor.	False
+182	She wanted to know if what I discovered was true!	False
+183	She kept crying all night.	False
+184	London's more expensive than Delhi.	False
+185	If you didn't want to go, you should've said something.	False
+186	This only happened once.	False
+187	Has the snow stopped yet?	True
+188	Is it always this cold?	True
+189	I don't want them all to know what we did.	False
+190	Tom waited for more than an hour.	False
+191	Tom made me get an appointment.	False
+192	Semantic equivalence is protean as well as fuzzy: what hoi polloi find equivalent may to cognoscenti be quite distinct.	False
+193	Is there water?	True
+194	Were you able to make it to the station on time to catch the first train this morning?	True
+195	Bring me a bucket of water.	False
+196	Do you want to see my room?	True
+197	What wasn't easy?	True
+198	I wasn't making fun of him.	False
+199	Tom will likely come to visit us next summer.	False
+200	Now lie down.	False
+201	You have eaten enough.	False
+202	Tom hates his last name.	False
+203	"How do you spell ""bludgeon""?"	True
+204	I've been doing research over the last few days about how I might make money from the project, but I think all my options will require a severe shift in the way I live, which is a tricky thing.	False
+205	This is hard for you, isn't it?	True
+206	He is untidily dressed.	False
+207	That's our house.	False
+208	I can't wait to tell you.	False
+209	My opinion on what should be done is different from his.	False
+210	Tom had to wait for three hours.	False
+211	Do you have any idea when those pictures might have been taken?	True
+212	Can I register for that class?	True
+213	I'm trying not to get emotional.	False
+214	Advantaging myself over the competition is the only way I can ensure my evaporated yogurt water stand will be here tomorrow.	False
+215	Tom asked Mary to pass him the salt and pepper.	False
+216	Tom said it was urgent.	False
+217	Who put you up to it?	True
+218	Tom is standing in the center of the room.	False
+219	An office building, with 22 stories above ground and 2 below, is under construction.	False
+220	They looked on him as their leader.	False
+221	I am tying my laces. Wait for me!	False
+222	There was a small group of men standing in front of the fountain.	False
+223	It takes an hour to get to the station.	False
+224	Everybody dies.	False
+225	Because of the dense haze, the road was hard to see.	False
+226	Tom will catch up with us.	False
+227	How many people can do that?	True
+228	It looks like Google deprecated that functionality.	False
+229	I'm the one who bought a ticket for Tom.	False
+230	Lately it seems that no matter how much I sleep, I stay tired. I wonder if I've come down with something strange.	False
+231	I have a lot of activities which take up my time.	False
+232	Dad, here's the coffee.	False
+233	The food at the canteen isnâ€™t very good, and the menu contains mostly unhealthy foods, too salted or sweetened.	False
+234	I went to the bank.	False
+235	That might not be necessary.	False
+236	Are we that predictable?	True
+237	Thanks for taking him fishing.	False
+238	I can do that if you let me.	False
+239	Are you over eighteen years old?	True
+240	It's chilly.	False
+241	Come with me to Boston.	False
+242	Tom said he didn't want to think about it.	False
+243	Do you want to have fun?	True
+244	Bob expressed words of thanks on behalf of his classmates.	False
+245	You told me not to do that.	False
+246	You'd better stay with me.	False
+247	Why do you insist on letting in these insufferable wild birds?!	True
+248	The police are going to investigate the crime.	False
+249	That house was so poorly built that no floors were level and no walls were plumb.	False
+250	How old is this dog?	True
+251	It's easy to look at the world through rose-colored glasses.	False
+252	He's my husband.	False
+253	I'm responsible for him.	False
+254	I'm so happy for you both.	False
+255	Why did Tom want to talk to me?	True
+256	"""How can I lose?"" answered Satan. ""All the umpires are down here in Hell."""	True
+257	I appreciate everything you've done for me.	False
+258	We can continue playing, as long as we don't make too much noise.	False
+259	I'm not convinced Tom is telling the truth.	False
+260	How did you stain your dress?	True
+261	Noted. Thank you.	False
+262	Tom has a marine aquarium.	False
+263	I'm taking a vacation.	False
+264	I've given it a lot of thought.	False
+265	The result of the game is doubtful.	False
+266	What's on the air now?	True
+267	I'm too tired to walk any longer.	False
+268	Water is indispensable to us.	False
+269	The patient will be grateful if you donate	False
+270	Would you like to volunteer to help clean up after the party?	True
+271	I'm accustomed to this.	False
+272	What on earth gave you that idea?	True
+273	They liked large cars.	False
+274	Could you remind me to call my academic advisor at 9:00 p.m. tomorrow?	True
+275	I want to cheer you up.	False
+276	I'll think it over.	False
+277	I still don't understand what you want from me.	False
+278	They've all gone crazy.	False
+279	It's not a crime.	False
+280	Tom didn't even have the courtesy to say that he was sorry.	False
+281	Do what you like.	False
+282	I'm unbiased.	False
+283	I'm sure Tom won't want to do that.	False
+284	He was wearing a dinner jacket.	False
+285	Who will guard the guards themselves?	True
+286	Do you have any regional dishes?	True
+287	We caught the ball.	False
+288	You're freaking me out.	False
+289	The factual world is often weirder than the fictional world.	False
+290	Mars is red because of rusty iron in the ground.	False
+291	I am getting fat because I eat a lot of sweets.	False
+292	Come back in a day.	False
+293	Being a philologist, studying languages was necessary for his work.	False
+294	You let Tom get away.	False
+295	Tom is breaking the law.	False
+296	As you are tired, you had better rest.	False
+297	It was cold here through March.	False
+298	This was Tom's idea, wasn't it?	True
+299	Tom and Mary sat across from each other at a table in the corner.	False
+300	Some people sleep for only six hours or even less and yet they nevertheless feel fine.	False
+301	Tom told me you were allergic to cats.	False
+302	How do you say...?	True
+303	It's a large amount.	False
+304	That's what I'd try to do.	False
+305	It feels good.	False
+306	We'll all be killed if we aren't careful.	False
+307	Since you don't have anything to do, why not come fishing with me this weekend?	True
+308	Can I use my travelers' checks to pay the fee?	True
+309	There are five patients in the waiting room.	False
+310	I believe I can help with that.	False
+311	Bush studied the problem.	False
+312	The murderer was sentenced to life in prison.	False
+313	Don't forget we have to do our homework.	False
+314	I'm going on a hike next weekend with Tom.	False
+315	When Mary and I were married, we used to go bowling with Tom and Alice.	False
+316	The sum of the ignorance of the Republican candidates in the primaries for the U.S. presidential election is simply mind-boggling: one is afraid that China will obtain nuclear weapons, which they have had for 44 years, and the other proposes to close the U.S. embassy in Iran, which has been closed for 32 years... Such stupidity at the head of the world's most powerful country gives one the shivers!	False
+317	Tom doesn't want to have to do that again.	False
+318	I fell into the water.	False
+319	We'll have to talk this matter over in the near future.	False
+320	I have a housekeeper.	False
+321	I'm going to speak to you with utmost candor so I want you to take everything I'm about to say at face value.	False
+322	I would like a week off with pay.	False
+323	What's your favorite skin care product?	True
+324	Tom won't be the only one.	False
+325	What do you spend a majority of your time doing?	True
+326	The door is closing.	False
+327	"""Is this the first thing that you do in the morning?"" ""No, it's the second thing."""	True
+328	We had a very pleasant stay at their house.	False
+329	I still have some doubts.	False
+330	How did you cut your arm?	True
+331	He regretted having borrowed that book from her.	False
+332	Don't be disrespectful to your mother!	False
+333	I don't like you very much.	False
+334	Many kinds of birds live in Japan.	False
+335	You're perfect for the job.	False
+336	I'm sorry we have to ask you such things.	False
+337	It's a dream come true.	False
+338	I am not guilty and I am not a bad person.	False
+339	That will show them!	False
+340	"""What kind of pet is always found on the floor?"" ""A carpet."""	True
+341	Tom knows more about economics than most people do.	False
+342	What's your favorite recipe?	True
+343	You speak Spanish very well.	False
+344	She was absorbed in listening to music when I visited her.	False
+345	Tom flosses his teeth every day.	False
+346	I miss it.	False
+347	He drank a glass of red wine.	False
+348	Tom was a good friend of yours, wasn't he?	True
+349	Thanks for asking.	False
+350	They formed a company to control it.	False
+351	Tom has called me many times.	False
+352	It behooves you to do well in school.	False
+353	It's a conspiracy.	False
+354	Do you know your license plate number?	True
+355	I remember I saw the queen.	False
+356	I don't have to say a word.	False
+357	Is the shop close?	True
+358	He craned his neck to see the procession.	False
+359	Everything that is not me is incomprehensible.	False
+360	My son is working hard on the field right now.	False
+361	Your password has just been sent. Check your email.	False
+362	That isn't Tom's only problem.	False
+363	This medicine doesn't have any harmful side effects.	False
+364	Can you extend your holiday by a few days?	True
+365	If I die, I want to die where nobody ever finds me.	False
+366	They killed this goat as a sacrifice to God.	False
+367	The water has boiled away.	False
+368	Tom is busy this afternoon.	False
+369	Who's the D. J. today?	True
+370	Something terrible happened here.	False
+371	Tom also asked me to tell you he doesn't want to go.	False
+372	Could you turn on your headlights?	True
+373	I wish I could think of a good excuse not to go.	False
+374	Tom knew who Mary had decided to give her old guitar to.	False
+375	I sense that something is wrong.	False
+376	For your own safety, just stay here.	False
+377	You love Tom more than I do.	False
+378	Could you lend me three thousand dollars?	True
+379	Why are you asking if you know it all?	True
+380	She lives with her dad.	False
+381	Your bag's open.	False
+382	He must be a bookworm to read ten books every day.	False
+383	Why did you give up the idea of learning French?	True
+384	He wants to know how he can lose weight safely.	False
+385	Tom couldn't sleep because of the heat.	False
+386	Most children grow out of wetting the bed by the age of seven or eight.	False
+387	I don't see any resemblance.	False
+388	You're better than I am.	False
+389	She's not a good person.	False
+390	Would you like to play tennis every Sunday?	True
+391	Tom hasn't seen Mary in three years.	False
+392	I recommend putting up your hair so your fringe doesn't get on your forehead.	False
+393	Have you seen tonight's paper?	True
+394	I know them from work.	False
+395	Tom tried to say something, but couldn't.	False
+396	Many people eat sugar cookies on Christmas.	False
+397	My comment sparked off an argument in the group.	False
+398	This was before people knew how to record voices, so we don't know exactly what he sounded like.	False
+399	It scares me to death.	False
+400	Don't raise your voice.	False
+401	It made her sad.	False
+402	What's in here?	True
+403	Tom was outstanding.	False
+404	She wished she had been born twenty years earlier.	False
+405	I've only studied French for three months.	False
+406	No one answered.	False
+407	Tom has his own room.	False
+408	Do you want him to help?	True
+409	I picked out a new hat at the store.	False
+410	I am reading short stories.	False
+411	Should I clean my room?	True
+412	I want them.	False
+413	Why would I help him?	True
+414	Bill is a baseball player.	False
+415	Have you made up your mind about tonight?	True
+416	Since PlayStation 2 came out the game software store shelves have bloomed riotously with colorful new titles.	False
+417	Can you help me paint my house?	True
+418	I didn't receive even one letter from her.	False
+419	I thanked him for the nice present.	False
+420	Such a judge should retire from his job before retirement age.	False
+421	Tom made more money on that deal than he thought he would.	False
+422	Lech is interested in history.	False
+423	Thank you for coming.	False
+424	I no longer have any reason to lie.	False
+425	One man's gain is another man's loss.	False
+426	The mother is leading her child by the hand.	False
+427	I have seen nobody apart from you.	False
+428	Japan consists of four major islands and over 3,000 small islands, and is about equal to California in area.	False
+429	Is that a smile or a leer?	True
+430	She slept deeply.	False
+431	Tom is getting scared.	False
+432	I should've paid more attention to what Tom was saying.	False
+433	Studying cows, pigs and chickens can help an actor develop his character. There are a lot of things I learned from animals. One was that they couldn't hiss or boo me.	False
+434	I feel a little insecure.	False
+435	I like nobody and nobody likes me.	False
+436	Do you wish to make any other transaction?	True
+437	Is it made of wood or metal?	True
+438	The police will suspect that he is the murderer.	False
+439	My mind is a blank.	False
+440	If it had not been for your help, we might have failed.	False
+441	He ran a great risk in the jungle.	False
+442	I will be here tomorrow.	False
+443	You have good friends.	False
+444	Did you buy this for her?	True
+445	Tom is sleepy, isn't he?	True
+446	Why are you crumbling this bread?	True
+447	He came home very late.	False
+448	Are you cold? Here, take my coat.	True
+449	When I am going to visit someone I look up to, I first write to him and tell him why.	False
+450	What do we know about Tom?	True
+451	In the war, many people died young.	False
+452	The exposition will be held for six months.	False
+453	We have to do something.	False
+454	He talked for an entire hour.	False
+455	SÃ£o Vicente was the first city in Brazil.	False
+456	You should do that.	False
+457	Can you point me in the right direction?	True
+458	The story wandered.	False
+459	Tom hit the nail right on the head.	False
+460	Nowadays we are apt to forget the benefits of nature.	False
+461	Dinner will be ready when you arrive.	False
+462	What's so special about this Tom, anyway?	True
+463	Which one of you is the psychic?	True
+464	Most people think that gorillas are stupid. Is that true?	True
+465	You're driving like a maniac!	False
+466	A lot of people deflect praise that comes their way, because they don't know how to handle it.	False
+467	And by the way, weâ€™ve been having a lot of babies -- Iâ€™ve noticed -- in the White House. Which Iâ€™m happy about -- I love babies. They bring them into the Oval Office and they make me feel good.	False
+468	It is impossible to exaggerate the importance of education.	False
+469	Who gave that order?	True
+470	May I call on you at your house tomorrow morning?	True
+471	The policeman paid no attention to him.	False
+472	Am I making myself clear?	True
+473	How can you be so calm?	True
+474	I've been busy all day.	False
+475	Why don't you buy a vehicle?	True
+476	Tom ought to have known better than to say that.	False
+477	It is of no use to try to find him in the crowd.	False
+478	Can one of you help me?	True
+479	Please, leave it to me.	False
+480	They pay you well.	False
+481	He landed himself a really plum job.	False
+482	I thoroughly enjoyed myself.	False
+483	I want to get a real job.	False
+484	I knew you were going to ask that.	False
+485	I can't remember how to use this machine.	False
+486	Mary saw Tom and Conchita holding hands.	False
+487	A spider weaves a web.	False
+488	Do you really believe I can help you?	True
+489	He still thinks of us as friends.	False
+490	I don't need to tell you again, do I?	True
+491	We both looked ridiculous.	False
+492	Generally I don't like country music.	False
+493	Thanks for coming, guys! I'll see you next class!	False
+494	When and where did the war break out?	True
+495	She does not understand modern technology.	False
+496	Tom figured it would take him a full day to finish painting the garage.	False
+497	I have something to give to you.	False
+498	Tom doesn't want to see Mary at all.	False
+499	I need your full attention now.	False
+500	The man is eating. The woman is eating. The child is eating.	False
+501	When did you tell him how you feel about him?	True
+502	How much time is enough?	True
+503	There are billions of people all over the world who are not watching the World Cup right now.	False
+504	Where's your friend?	True
+505	Tom addressed that point.	False
+506	Why doesn't she care about me anymore?	True
+507	Perhaps you could point us in the right direction.	False
+508	Could somebody get Tom for me, please?	True
+509	Everyone laughs at someone who makes a mistake.	False
+510	Do you have any other books?	True
+511	Reading is the kind of habit that once acquired is never lost.	False
+512	Do you participate in the marathon?	True
+513	Put out your cigarettes.	False
+514	He has a big future in baseball.	False
+515	If you don't want to buy some unnecessary thing, don't go to the fair.	False
+516	Which do you usually drink, wine or beer?	True
+517	I forgot to shutter the windows before the storm hit.	False
+518	It doesn't seem to make much sense, does it?	True
+519	He's the perfect man for her.	False
+520	We're going to have a great time.	False
+521	Tom doesn't want me around when Mary is here.	False
+522	This should be outlawed.	False
+523	She made an allusion to his misconduct.	False
+524	Was King James I of England really gay?	True
+525	When PC problems slow you down, what can you do?	True
+526	I was awful to you.	False
+527	Does Tom attend mass?	True
+528	I'm trying my best.	False
+529	His concert was very good.	False
+530	I would rather go to the mountains than to the beach.	False
+531	The accident happened at this junction.	False
+532	I've been waiting.	False
+533	I ran into an old friend of mine this morning.	False
+534	I'm just filling in here temporarily.	False
+535	They did all they could.	False
+536	Will you be ready by 2:30?	True
+537	Please refrain from excessive drinking.	False
+538	Mary ironed her skirt.	False
+539	You really fooled them.	False
+540	Come back here. It's an order.	False
+541	Is this your beer?	True
+542	I told you not to come here.	False
+543	Hurry up so that you get there in time.	False
+544	My name is on the door.	False
+545	Is this all the thing?	True
+546	The hedgehog rolled up into a ball.	False
+547	Are you on dope?	True
+548	She's much better today than yesterday.	False
+549	You just don't get it.	False
+550	Tom didn't bring it.	False
+551	Driving through that snowstorm was a nightmare.	False
+552	Was Tom angry about that?	True
+553	I've only been online for ten minutes.	False
+554	Tom arrived late.	False
+555	This novel is fun and enjoyable.	False
+556	You may as well keep it a secret.	False
+557	I must go through the task by tomorrow.	False
+558	Fishing is not allowed here.	False
+559	There is no shame in saying 'I don't know'.	False
+560	And spy not, neither backbite one another. Would any of you love to eat the flesh of his dead brother? You would abhor that!	True
+561	Tom should be back at 2:30.	False
+562	Tom is proud of his children.	False
+563	Tom and Mary didn't know each other at that time.	False
+564	Open your eyes, Tom.	False
+565	You can ask Tom.	False
+566	Why do bad things happen?	True
+567	Tom thanked Mary for all her help.	False
+568	I've been feeling sick for the last two days.	False
+569	Tom and Mary just did what they were told to do.	False
+570	We have to find a way to stop it.	False
+571	What were you doing in that building?	True
+572	Tom is still in custody.	False
+573	Don't make me do this.	False
+574	Tom didn't say what time he'd be home.	False
+575	I'm planning on making us something to eat.	False
+576	Can a child do such a cruel thing?	True
+577	Do you feel like going swimming?	True
+578	Who are you to talk to me like that?	True
+579	The plane is ready.	False
+580	I cannot miss the train. I always come to the station on time.	False
+581	We're in trouble now.	False
+582	He was tried for murder.	False
+583	I already spoke to them.	False
+584	It's not such a big problem. You're worrying way too much.	False
+585	Do you get the impression that all of our politicians are too old?	True
+586	Tom didn't get into details.	False
+587	I spent all day yesterday with him.	False
+588	This man is not my husband.	False
+589	You can use it as a paperweight.	False
+590	Maria showed us their home.	False
+591	Why have you parked here?	True
+592	He left his hometown on a cold morning.	False
+593	I have the house all to myself.	False
+594	What happens at 2:30?	True
+595	Green suits you very well.	False
+596	I said I was fine.	False
+597	We've located them.	False
+598	Tom didn't want to get married.	False
+599	After the princess had her fill of wild berries, she fell into a deep sleep.	False
+600	He is having an affair with his secretary.	False
+601	I don't want to talk to you about this.	False
+602	What do you think Tom is going to want to do?	True
+603	I want to see what happens.	False
+604	Tom has been saying good things about you.	False
+605	What is this item called?	True
+606	I thought we weren't going to do this.	False
+607	That was a terrible thing to say.	False
+608	She's not from here. She was born in another country.	False
+609	Dialects of English spoken in one country often bewilder speakers of English from another.	False
+610	Can you open the door?	True
+611	The dog jumped up and caught the ball.	False
+612	That's all we do.	False
+613	We couldn't stop Tom from doing that.	False
+614	I'm writing these things down at the same time: eggs, butter, potatoes.	False
+615	I want you to wash the car.	False
+616	Are Mary and Alice really sisters?	True
+617	I like having lots of things to do.	False
+618	Tom didn't enter the building.	False
+619	I guess my luck just ran out.	False
+620	I saw him play baseball.	False
+621	You must go to school.	False
+622	How successful were they?	True
+623	"""You OK?"" ""Wha-... Yes, it's nothing."""	True
+624	We do very demanding work.	False
+625	We had to lessen the impact of the erratic supplies.	False
+626	Thank you for listening to my presentation.	False
+627	I want to learn English.	False
+628	You got here late, didn't you?	True
+629	Tom disagrees with you on that point.	False
+630	The baby will be able to walk soon.	False
+631	Tom raised his hand.	False
+632	Everything is all right at home.	False
+633	I forgot Tom knew how to play the accordion.	False
+634	I'll do anything you ask.	False
+635	Tom called me last night.	False
+636	The earthquake created a tremendous sea wave.	False
+637	There isn't room for everyone.	False
+638	How long will you have to wait?	True
+639	A crowd gathered at the scene.	False
+640	Tom loves risotto.	False
+641	How many close friends do you have?	True
+642	You should give up drinking and smoking.	False
+643	The motorcade made its way down Park Street.	False
+644	Moving to a smaller place will reduce the expenses.	False
+645	Tom laughed at my joke.	False
+646	The eagle spread its wings ready for flight.	False
+647	She lives near the dike.	False
+648	I still haven't gotten over what happened to me.	False
+649	Tom met Mary at a Bible study group.	False
+650	She is incapable of doing anything alone.	False
+651	Can I use your phone for a sec?	True
+652	Tom is always asking stupid questions.	False
+653	The situation has gotten out of my control. Nothing is going as expected.	False
+654	This parrot is no more.	False
+655	Tom asked Mary not to sit next to him.	False
+656	You went to Shanghai, right?	True
+657	Get me some wine.	False
+658	You won't have any trouble with Tom now.	False
+659	Did you hear it?	True
+660	That store sells many things besides furniture.	False
+661	This is all so strange.	False
+662	Both of them hugged me.	False
+663	"""Whose rings are these?"" ""They are my mother's."""	True
+664	I didn't allow animals in the hotel.	False
+665	Tom looked out the window at the street.	False
+666	We need to think together about the future of Europe.	False
+667	He is spare in words.	False
