@@ -20,7 +20,7 @@ Install the library by the instruction below.
 Install the dependencies and create the Anaconda Enviroment.
 
 ```sh
-$ conda env create -f environment.yml --name nlp_class_question
+$ conda env create -f nlp_qa_env.yml --name nlp_class_question
 $ conda activate nlp_class_question
 ```
 
